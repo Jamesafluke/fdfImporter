@@ -1,3 +1,2 @@
-echo
 Python main.py %*
-pause
+#pause
